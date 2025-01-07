@@ -63,8 +63,8 @@ Find the source code on GitHub: [GitHub Repository](https://github.com/aarishlak
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/aarishlakhani/se3316-rbalagan-alakha33-taran-lab4.git
-    cd se3316-rbalagan-alakha33-taran-lab4
+    git clone https://github.com/aarishlakhani/Full-Stack-Music-Application
+    cd Full-Stack-Music-Application
     ```
 
 2. Install dependencies:
